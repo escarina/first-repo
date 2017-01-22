@@ -2,6 +2,7 @@ Hello!
 This is my very first repository in the making. 
 Enjoy!
 
+Updating with Bash
 Updating with Tortoise
 
 Chnages, changes, changes
