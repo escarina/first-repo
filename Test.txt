@@ -1,5 +1,5 @@
 Hello! 
-This is my very forst repository in the making. 
+This is my very first repository in the making. 
 Enjoy!
 
 Updating with Bash
